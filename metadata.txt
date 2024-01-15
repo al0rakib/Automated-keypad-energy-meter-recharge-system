@@ -1,0 +1,9 @@
+
+Project Title: Automating Digital Prepaid Keypad Energy Meters via Mobile App Interface
+Author: Abdullah Al Rakib
+Roll: 1931014
+Department: Mechatronics Engineering
+Institution: KUET
+Semester: 3rd Year, 2nd Semester
+Submission Date: January 2024
+Supervisor: Priyo Nath Roy
