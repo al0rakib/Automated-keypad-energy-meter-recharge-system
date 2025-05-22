@@ -5,11 +5,11 @@ This project presents a solution to automate the manual button-pressing process 
 
 ## 📂 Project Files
 
-- `keypad_energy_meter.ino` – Arduino code for controlling motors and interpreting commands
+- `Keypad Energy Meter.ino` – Arduino code for controlling motors and interpreting commands
 - `Keypad Energy Meter Recharge.apk` – Android mobile app for remote operation
 - `Circuit Diagram of Automatic Recharge Keypad Energy Meter.fzz` – Fritzing file for hardware layout
-- `Report.pdf` – Full project report and documentation
-- `Presentation.pptx` – Project slides
+- `Automating Digital Prepaid Keypad Energy Meters via Mobile App Interface report.pdf` – Full project report and documentation
+- `Automating Digital Prepaid Keypad Energy Meters via Mobile App Interface presentation.pptx` – Project slides
 - `metadata.txt` – Project metadata and context
 
 ## 🛠 Hardware Used
